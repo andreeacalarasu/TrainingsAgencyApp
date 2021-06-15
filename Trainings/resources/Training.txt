@@ -1,0 +1,21 @@
+[TRAINING] 1,TR_JAVA, Java Programming Language, 10,ADVANCED,TECHNICAL_SKILLS
+1, Java Classes Members and Access Modifiers, Learn how to define classes members and access modifiers in Java,1
+2, OOP - Encapsulation, Learn one oop principle: encapsulation,2
+3, OOP - Inheritance, Learn one oop principle: inheritance,2
+4, OOP - Polymorphism, Learn one oop principle: polymorphism,2
+5, OOP - Abstraction, Learn one oop principle: abstraction,2
+[TRAINING] 2,TR_IOS, IOS Programming Language, 10,BEGINNER,TECHNICAL_SKILLS
+1, Introduction into IOS Software Language,Learn about IOS language,1
+2, Classes Operators,Learn how to define classes in IOS ,2
+3, Variables in IOS ,Learn how to use variable in IOS,2
+4, Final Project, Create a final project using IOS language,4
+[TRAINING] 3,TR_PUBLIC_SPEAKING, How to Successfully Speak in Public, 30,BEGINNER,SOFT_SKILLS
+1,VOICE,Your most important job as a speaker is to find your voice,2
+2,LEARN,You’ll learn more from audiences that don’t love you than audiences that do,2
+3,SPEAK,Let it go,2
+4,AUDIENCE,Not all audiences should hear you,2
+5,SPEECH,In fact you should never give the same speech twice,2
+[TRAINING] 4,TR_EMOTIONAL_INTELLIGENCE, How to grow your Emotional Intelligence, 30,INTERMEDIARY,SOFT_SKILLS
+1,IMPORTANCE,The importance of emotional intelligence,3
+2,IDENTIFY, Recognize your emotional intelligence,3
+3,GROW, Exercises to grow your emotional intelligence,2
